@@ -9,6 +9,7 @@
 # ------------------------------------------------
 
 # - Add model and table for the Company entity in our domain model
+# creates 2 files - first is ruby script an
 
 # 1. in terminal, generate the model and table for Company
 # rails generate model _____
